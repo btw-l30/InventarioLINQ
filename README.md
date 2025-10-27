@@ -1,38 +1,28 @@
-\# Ejercicios de Programación II - LINQ
+# Ejercicios de Programación II - LINQ
 
+Repositorio con ejercicios de LINQ del curso de Programación II.
 
+## 📚 Contenido
 
-Repositorio con ejercicios de LINQ del curso de Programación II - UPANA.
+### Ejercicio 1: Sistema de Inventario
+- **Descripción:** Gestión de inventario de productos usando LINQ
+- **Conceptos:** Where, OrderBy, GroupBy, Sum
+- **Carpeta:** [Ejercicio1-Inventario](./Ejercicio1-Inventario)
 
+### Ejercicio 2: Gestopm Academica
+- **Descripción:** Gestionar estudiantes
+- **Carpeta:** [Ejercicio2-NombreEjercicio](./Ejercicio3-NombreEjercicio)
 
-
-\## 📚 Ejercicios
-
-
-
-\### Ejercicio 1: Sistema de Inventario
-
-\- \*\*Descripción:\*\* Gestión de inventario de productos usando LINQ
-
-\- \*\*Conceptos:\*\* Where, OrderBy, GroupBy, Sum, consultas complejas
-
-\- \*\*Carpeta:\*\* \[Ejercicio1-Inventario](./Ejercicio1-Inventario)
-
-
-
-\## 🚀 Cómo ejecutar
-
-
+## 🚀 Cómo ejecutar
 
 Cada ejercicio es un proyecto independiente:
-
 ```bash
-
 cd Ejercicio1-Inventario
-
 dotnet run
-
 ```
+
+## 👨‍💻 Autor
+**Sebastian** - Universidad Panamericana
 
 
 
