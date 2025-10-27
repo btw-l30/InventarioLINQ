@@ -25,8 +25,3 @@ dotnet run
 **Sebastian** - Universidad Panamericana
 
 
-
-\## 👨‍💻 Autor
-
-\*\*Sebastian\*\* - Universidad Panamericana
-
