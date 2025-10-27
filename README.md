@@ -11,7 +11,7 @@ Repositorio con ejercicios de LINQ del curso de Programación II.
 
 ### Ejercicio 2: Gestopm Academica
 - **Descripción:** Gestionar estudiantes
-- **Carpeta:** [Ejercicio2-NombreEjercicio](./Ejercicio3-NombreEjercicio)
+- **Carpeta:** [Ejercicio2-NombreEjercicio](./Ejercicio3-GestionAcademica/GestionAcademica)
 
 ## 🚀 Cómo ejecutar
 
