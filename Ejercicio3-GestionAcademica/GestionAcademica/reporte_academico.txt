@@ -1,0 +1,54 @@
+========================================
+REPORTE ACADÉMICO
+Fecha: 26/10/2025 23:48:36
+========================================
+
+1. ESTUDIANTES APROBADOS
+------------------------------------
+Carnet: ID0053, Sarah Davis, Curso: Programming, Nota: 97.88
+Carnet: ID0034, David Johnson, Curso: Mathematics, Nota: 97.45
+Carnet: ID0088, John Williams, Curso: Statistics, Nota: 96.59
+Carnet: ID0040, Olivia Jones, Curso: Mathematics, Nota: 96.49
+Carnet: ID0038, James Davis, Curso: Mathematics, Nota: 95.31
+Carnet: ID0071, Olivia Garcia, Curso: Programming, Nota: 95.19
+Carnet: ID0100, Daniel Johnson, Curso: Mathematics, Nota: 94.12
+Carnet: ID0054, Sarah Johnson, Curso: Mathematics, Nota: 93.29
+Carnet: ID0015, David Brown, Curso: Mathematics, Nota: 91.82
+Carnet: ID0063, Daniel Smith, Curso: Statistics, Nota: 90.09
+Carnet: ID0007, Michael Williams, Curso: Statistics, Nota: 83.64
+Carnet: ID0094, Olivia Williams, Curso: Mathematics, Nota: 83.31
+Carnet: ID0095, James Davis, Curso: Programming, Nota: 83.03
+Carnet: ID0028, Daniel Davis, Curso: Statistics, Nota: 82.67
+Carnet: ID0012, Sophia Davis, Curso: Statistics, Nota: 82.37
+Carnet: ID0069, David Rodriguez, Curso: Statistics, Nota: 80.63
+Carnet: ID0009, Laura Jones, Curso: Statistics, Nota: 73.50
+Carnet: ID0045, Laura Miller, Curso: Statistics, Nota: 71.78
+
+Total: 18 estudiantes
+
+2. PROMEDIO POR CURSO
+------------------------------------
+Curso: Statistics
+Promedio: 48.06
+Estudiantes: 27
+
+Curso: Programming
+Promedio: 41.21
+Estudiantes: 38
+
+Curso: Mathematics
+Promedio: 47.18
+Estudiantes: 35
+
+3. TOP 10 ESTUDIANTES
+------------------------------------
+1. Carnet: ID0053, Sarah Davis, Curso: Programming, Nota: 97.88
+2. Carnet: ID0034, David Johnson, Curso: Mathematics, Nota: 97.45
+3. Carnet: ID0088, John Williams, Curso: Statistics, Nota: 96.59
+4. Carnet: ID0040, Olivia Jones, Curso: Mathematics, Nota: 96.49
+5. Carnet: ID0038, James Davis, Curso: Mathematics, Nota: 95.31
+6. Carnet: ID0071, Olivia Garcia, Curso: Programming, Nota: 95.19
+7. Carnet: ID0100, Daniel Johnson, Curso: Mathematics, Nota: 94.12
+8. Carnet: ID0054, Sarah Johnson, Curso: Mathematics, Nota: 93.29
+9. Carnet: ID0015, David Brown, Curso: Mathematics, Nota: 91.82
+10. Carnet: ID0063, Daniel Smith, Curso: Statistics, Nota: 90.09
