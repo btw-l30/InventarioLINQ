@@ -9,7 +9,7 @@ Repositorio con ejercicios de LINQ del curso de Programación II.
 - **Conceptos:** Where, OrderBy, GroupBy, Sum
 - **Carpeta:** [Ejercicio1-Inventario](./Ejercicio1-Inventario)
 
-### Ejercicio 2: Gestopm Academica
+### Ejercicio 2: Gestion Academica
 - **Descripción:** Gestionar estudiantes
 - **Carpeta:** [Ejercicio2-NombreEjercicio](./Ejercicio3-GestionAcademica/GestionAcademica)
 
